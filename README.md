@@ -15,11 +15,11 @@
 <div align="center">
   <h3><code>./display_profile.sh --verbose</code></h3>
 
-<p align="left" style="width: 50%; margin: 0 auto; min-width: 300px;">
-<code>&gt; [INFO] Name: &nbsp; &nbsp; &nbsp;Satya Mahesh</code><br>
-<code>&gt; [INFO] Role: &nbsp; &nbsp; &nbsp;Full-Stack Engineer</code><br>
-<code>&gt; [INFO] Interests: Web Dev, System Design, P2P</code><br>
-<code>&gt; [INFO] Contact: &nbsp; Ready to connect on LinkedIn</code><br>
+<p align="left" style="width: 60%; margin: 0 auto; min-width: 300px;">
+<code>&gt; [INFO] Name: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Satya Mahesh</code><br>
+<code>&gt; [INFO] Coursework: &nbsp; &nbsp; Data Structures, Software Engineering, OOP</code><br>
+<code>&gt; [INFO] Key Strengths: &nbsp;Problem Solving, Team Collaboration, Time Management</code><br>
+<code>&gt; [INFO] Certifications: Full-Stack Web Dev (Udemy), Operational Excellence (Sankalp)</code><br>
 </p>
 </div>
 
@@ -29,16 +29,44 @@
 
 ### `> INIT SKILL_MODULES`
 
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF00" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00FF00" />
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF00" />
 <br>
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FF00" />
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=00FF00" />
-<img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=00FF00" />
+
+<p align="center">
+  <code>[ PROGRAMMING_LANGUAGES ]</code><br><br>
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF00" />
+</p>
+
 <br>
-<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00FF00" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF00" />
+
+<p align="center">
+  <code>[ WEB_TECHNOLOGIES ]</code><br><br>
+  <img src="https://img.shields.io/badge/React.js-0D1117?style=for-the-badge&logo=react&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=00FF00" />
+  <br><br>
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF00" />
+</p>
+
+<br>
+
+<p align="center">
+  <code>[ DATABASES ]</code><br><br>
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF00" />
+</p>
+
+<br>
+
+<p align="center">
+  <code>[ TOOLS_&_DEVOPS ]</code><br><br>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF00" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=00FF00" />
+</p>
 
 <br><br>
 
