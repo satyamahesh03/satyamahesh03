@@ -64,8 +64,8 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyamahesh03&repo=DataShare&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&hide_border=true" alt="DataShare"/>
       </a>
       <br><br>
-      <a href="https://github.com/satyamahesh03/Portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyamahesh03&repo=Portfolio&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&hide_border=true" alt="Portfolio"/>
+      <a href="https://github.com/satyamahesh03/CampusCollab">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyamahesh03&repo=Campuscollab&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&hide_border=true" alt="CampusColab"/>
       </a>
     </td>
     <td width="50%" valign="top" align="center">
